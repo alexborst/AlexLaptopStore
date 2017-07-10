@@ -1,0 +1,11 @@
+﻿@model AlexLaptopStore.UI.ViewModels.ProductViewModel
+
+@{
+    ViewData["Title"] = "Product Page";
+}
+
+@Html.Display(Model.product.name);
+@Html.Display(Model.product.image);
+@Html.Display(Model.product.salePrice.ToString());
+@Html.Display(Model.product.longDescription);
+@Html.Display(Model.product.bestSellingRank.ToString());

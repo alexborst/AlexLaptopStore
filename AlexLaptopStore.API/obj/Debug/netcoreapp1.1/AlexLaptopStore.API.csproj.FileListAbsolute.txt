@@ -1,0 +1,9 @@
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\bin\Debug\netcoreapp1.1\AlexLaptopStore.API.deps.json
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\bin\Debug\netcoreapp1.1\AlexLaptopStore.API.runtimeconfig.json
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\bin\Debug\netcoreapp1.1\AlexLaptopStore.API.runtimeconfig.dev.json
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\bin\Debug\netcoreapp1.1\AlexLaptopStore.API.dll
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\obj\Debug\netcoreapp1.1\AlexLaptopStore.API.AssemblyInfo.cs
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\obj\Debug\netcoreapp1.1\AlexLaptopStore.API.csprojResolveAssemblyReference.cache
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\bin\Debug\netcoreapp1.1\AlexLaptopStore.API.pdb
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\obj\Debug\netcoreapp1.1\AlexLaptopStore.API.dll
+C:\Challenges\AlexLaptopStore\AlexLaptopStore.API\AlexLaptopStore.API\obj\Debug\netcoreapp1.1\AlexLaptopStore.API.pdb
